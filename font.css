@@ -173,3 +173,9 @@ body {
 .psychic_b:hover {
 	background: radial-gradient(circle,rgba(152, 34, 179, 1) 0%, rgba(148, 32, 158, 1) 50%, rgba(109, 19, 128, 1) 100%)
 }
+div {
+	background:  linear-gradient(90deg,rgba(212, 193, 193, 1) 0%, rgba(199, 167, 167, 1) 50%, rgba(196, 137, 137, 1) 100%);
+	padding: 15px 20px;
+	border: gold solid 2px
+	box-shadow: 5px 10px 10px rgba(26, 26, 26, 0.75)
+}
