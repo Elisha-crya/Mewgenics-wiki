@@ -176,6 +176,6 @@ body {
 div {
 	background:  linear-gradient(90deg,rgba(212, 193, 193, 1) 0%, rgba(199, 167, 167, 1) 50%, rgba(196, 137, 137, 1) 100%);
 	padding: 15px 20px;
-	border: gold solid 2px
+	border: gold solid 2px;
 	box-shadow: 5px 10px 10px rgba(26, 26, 26, 0.75)
 }
