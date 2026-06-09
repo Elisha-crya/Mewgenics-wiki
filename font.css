@@ -162,6 +162,9 @@ body {
 }
 .psychic_b {
 	background: linear-gradient(90deg,rgba(180, 38, 212, 1) 0%, rgba(164, 35, 176, 1) 50%, rgba(131, 23, 153, 1) 100%);
+.mage {
+	border: 3px solid purple
+}
 	text-decoration: none;
 	color: black; 
 	padding: 15px 20px;
